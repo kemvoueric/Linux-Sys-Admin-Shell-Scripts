@@ -1,0 +1,6 @@
+#! /bin/bash
+# script that format the output of admin commands
+
+date | awk '{print $1}'
+uptime | awk '{print $2,$3}'
+df -h | grep root
