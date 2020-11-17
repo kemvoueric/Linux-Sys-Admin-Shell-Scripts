@@ -8,4 +8,5 @@ Polishing my shell scripting skills by writing, automating & debugging various d
 * https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples
 * https://www.udemy.com/course/linux-shell-scripting-projects/
 * https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/
+* https://kodekloud.com/courses/enrolled/1029419
 ```
