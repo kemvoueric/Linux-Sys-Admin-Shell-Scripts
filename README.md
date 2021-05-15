@@ -1,5 +1,4 @@
 =======
-
 ## shell scripts projects ##
 Polishing my shell scripting skills by writing, automating & debugging various daily linux sys-admin tasks during the covid-19 lockdown with the below courses from Udemy
 
